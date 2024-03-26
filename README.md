@@ -1,5 +1,5 @@
 ### hello i am dhruv(ji)
-here's some stuff i coded 
+here's some stuff i coded ; a lot is private though :( 
 <!--
 **dhruvji/dhruvji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
